@@ -4,7 +4,6 @@
 data modify storage moreinfo:temp Item set from entity @s SelectedItem
 
 # We can now modify what we want about the item here. Its 'Slot' is set to 0.
-data modify storage moreinfo:temp Item merge value {tag: {Enchantments: [{id: "minecraft:knockback", lvl: 1s}]}}
 data modify storage moreinfo:temp Item.Slot set value 0b
 
 # Third, we copy the storage item to the shulker box. Because 'Slot' is 0, the item will be in the first slot.
