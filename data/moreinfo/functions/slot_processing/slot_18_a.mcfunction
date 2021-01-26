@@ -1,3 +1,5 @@
+## THIS FILE WAS AUTO-GENERATED
+## RUN build.bat OR generate_files.py TO REGENERATE FILE
 #alias vector box -2079934 0 -21744925
 #alias vector sign -2079934 0 -21744926
 # First, we copy the item to a storage.

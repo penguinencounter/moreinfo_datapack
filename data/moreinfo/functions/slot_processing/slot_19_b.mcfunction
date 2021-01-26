@@ -1,3 +1,5 @@
+## THIS FILE WAS AUTO-GENERATED
+## RUN build.bat OR generate_files.py TO REGENERATE FILE
 # We can now modify what we want about the item here. Its 'Slot' is set to 0.
 # USAGE: Check if the plugin needs to run. Edit item lore tag.
 function #moreinfo:actions
